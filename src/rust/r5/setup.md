@@ -234,7 +234,7 @@ utils = { path="../utils" }  # 👈 2️⃣ foo's cargo. refer to utils via path
 │ └─ 📦 main.rs
 
 ```yaml
-# 👇 3️⃣ foo's main.rs.
+# 👇 3️⃣ foo's main.
 ```
 ```rust,no_run
 use utils;     // 👈 use utils.
